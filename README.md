@@ -302,7 +302,11 @@ it('throws when the enthusiasm level is negative', () => {
 });
 ```
 
-These tests are extremely basic, but you should be able to get the gist of things.
+These tests are extremely basic, but you should be able to get the gist of things.  
+To run the test, type the following command: *(Remember to save 'Hello.test.tsx' first!)*   
+```
+npm run test
+```
 
 # Adding state management
 
